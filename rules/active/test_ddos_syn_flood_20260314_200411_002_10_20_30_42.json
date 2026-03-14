@@ -1,0 +1,14 @@
+{
+  "rule_id": "test_ddos_syn_flood_20260314_200411_002_10_20_30_42",
+  "src_ip": "10.20.30.42",
+  "dst_ip": null,
+  "src_port": null,
+  "dst_port": null,
+  "protocol": null,
+  "action": "DROP",
+  "rate_limit": null,
+  "comment": "DDoS syn_flood - auto-generated",
+  "created_at": "2026-03-14T20:04:11.794794",
+  "ttl_seconds": 3600,
+  "enabled": true
+}
