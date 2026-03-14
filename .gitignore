@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Models
+models/*.h5
+models/*.pkl
+models/*.pt
+
+# Logs
+logs/*.log
+logs/events/*.json
+logs/metrics/*.json
+logs/firewall/*.log
+
+# Rules
+rules/active/*.rules
+rules/archived/*.rules
+
+# Dataset processed
+dataset/processed/*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+*.checkpoint
