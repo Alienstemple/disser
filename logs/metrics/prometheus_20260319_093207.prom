@@ -1,0 +1,22 @@
+# Prometheus metrics export at 2026-03-19T09:32:07.093071
+# Total points: 23
+
+# HELP detection_probability Metric detection_probability
+# TYPE detection_probability gauge
+detection_probability{attack_type="syn_flood"} 0.6708812933973534
+
+# HELP mitigation_time_ms Metric mitigation_time_ms
+# TYPE mitigation_time_ms gauge
+mitigation_time_ms 131.04194627221472
+
+# HELP cpu_usage Metric cpu_usage
+# TYPE cpu_usage gauge
+cpu_usage 13.969168628408468
+
+# HELP memory_usage Metric memory_usage
+# TYPE memory_usage gauge
+memory_usage 31.83345324579447
+
+# HELP active_connections Metric active_connections
+# TYPE active_connections gauge
+active_connections 553

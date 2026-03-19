@@ -1,0 +1,22 @@
+analysis:
+  attack_classification_threshold: 0.6
+  top_suspicious_ip_count: 20
+blacklist:
+  ips: []
+  subnets: []
+detection:
+  attack_probability_threshold: 0.88
+  model_path: null
+  window_size_sec: 12
+llm:
+  firewall_backend: iptables
+  model: null
+  provider: mock
+mitigation:
+  default_rule_ttl: 86400
+  dry_run: true
+  firewall_backend: mock
+whitelist:
+  ips: []
+  ports: []
+  subnets: []

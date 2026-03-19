@@ -1,0 +1,35 @@
+{"name": "detection_probability", "value": 0.6854425918037511, "timestamp": "2026-03-19T09:32:05.059150", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 151.68204334655542, "timestamp": "2026-03-19T09:32:05.059165", "labels": {}}
+{"name": "detection_probability", "value": 0.6247967867887595, "timestamp": "2026-03-19T09:32:05.159634", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 119.01649141383099, "timestamp": "2026-03-19T09:32:05.159699", "labels": {}}
+{"name": "detection_probability", "value": 0.664788286207993, "timestamp": "2026-03-19T09:32:05.264758", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 125.18477401676951, "timestamp": "2026-03-19T09:32:05.264830", "labels": {}}
+{"name": "detection_probability", "value": 0.5031566776311891, "timestamp": "2026-03-19T09:32:05.368904", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 107.19622571076468, "timestamp": "2026-03-19T09:32:05.368984", "labels": {}}
+{"name": "detection_probability", "value": 0.5238369572277708, "timestamp": "2026-03-19T09:32:05.469433", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 192.3621722121988, "timestamp": "2026-03-19T09:32:05.469502", "labels": {}}
+{"name": "detection_probability", "value": 0.735259796176227, "timestamp": "2026-03-19T09:32:05.574572", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 175.08520101612845, "timestamp": "2026-03-19T09:32:05.574651", "labels": {}}
+{"name": "detection_probability", "value": 0.7965965902933876, "timestamp": "2026-03-19T09:32:05.676018", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 121.61815973946206, "timestamp": "2026-03-19T09:32:05.676100", "labels": {}}
+{"name": "detection_probability", "value": 0.7438589834073315, "timestamp": "2026-03-19T09:32:05.779233", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 169.0314401211304, "timestamp": "2026-03-19T09:32:05.779332", "labels": {}}
+{"name": "detection_probability", "value": 0.5622680910960761, "timestamp": "2026-03-19T09:32:05.884430", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 195.37821022674248, "timestamp": "2026-03-19T09:32:05.884518", "labels": {}}
+{"name": "detection_probability", "value": 0.6708812933973534, "timestamp": "2026-03-19T09:32:05.984968", "labels": {"attack_type": "syn_flood"}}
+{"name": "mitigation_time_ms", "value": 131.04194627221472, "timestamp": "2026-03-19T09:32:05.985090", "labels": {}}
+{"name": "cpu_usage", "value": 13.969168628408468, "timestamp": "2026-03-19T09:32:06.090235", "labels": {}}
+{"name": "memory_usage", "value": 31.83345324579447, "timestamp": "2026-03-19T09:32:06.090275", "labels": {}}
+{"name": "active_connections", "value": 553, "timestamp": "2026-03-19T09:32:06.090288", "labels": {}}
+{"name": "attack_probability", "value": 0.3, "timestamp": "2026-03-19T09:32:07.093752", "labels": {}}
+{"name": "packets_analyzed", "value": 1000, "timestamp": "2026-03-19T09:32:07.093761", "labels": {}}
+{"name": "attack_probability", "value": 0.44999999999999996, "timestamp": "2026-03-19T09:32:07.198829", "labels": {}}
+{"name": "packets_analyzed", "value": 1500, "timestamp": "2026-03-19T09:32:07.198883", "labels": {}}
+{"name": "attack_probability", "value": 0.6, "timestamp": "2026-03-19T09:32:07.299358", "labels": {}}
+{"name": "packets_analyzed", "value": 2000, "timestamp": "2026-03-19T09:32:07.299403", "labels": {}}
+{"name": "attack_probability", "value": 0.75, "timestamp": "2026-03-19T09:32:07.401076", "labels": {}}
+{"name": "packets_analyzed", "value": 2500, "timestamp": "2026-03-19T09:32:07.401166", "labels": {}}
+{"name": "attack_probability", "value": 0.8999999999999999, "timestamp": "2026-03-19T09:32:07.501513", "labels": {}}
+{"name": "packets_analyzed", "value": 3000, "timestamp": "2026-03-19T09:32:07.501565", "labels": {}}
+{"name": "attack_detected", "value": 1, "timestamp": "2026-03-19T09:32:07.606755", "labels": {"type": "udp_flood"}}
+{"name": "ips_blocked", "value": 1, "timestamp": "2026-03-19T09:32:07.606781", "labels": {}}

@@ -1,0 +1,35 @@
+# DDoS Detection and Mitigation System
+# Requirements
+
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Deep Learning (optional for training)
+# tensorflow>=2.15.0  # Раскомментировать для обучения модели
+
+# Network traffic processing
+pyshark>=0.6
+scapy>=2.5.0
+
+# LLM clients (optional)
+# openai>=1.12.0      # Для OpenAI GPT
+# groq>=0.4.0         # Для Groq API
+# requests>=2.31.0    # Для Ollama и других HTTP API
+
+# Configuration
+pyyaml>=6.0
+
+# Logging and monitoring
+# prometheus-client>=0.19.0  # Для экспорта метрик
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Firewall management (Linux only)
+# python-iptables>=1.0.0  # Для прямого управления iptables

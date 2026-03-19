@@ -1,0 +1,18 @@
+# Prometheus metrics export at 2026-03-19T09:32:09.617151
+# Total points: 12
+
+# HELP attack_probability Metric attack_probability
+# TYPE attack_probability gauge
+attack_probability 0.8999999999999999
+
+# HELP packets_analyzed Metric packets_analyzed
+# TYPE packets_analyzed gauge
+packets_analyzed 3000
+
+# HELP attack_detected Metric attack_detected
+# TYPE attack_detected gauge
+attack_detected{type="udp_flood"} 1
+
+# HELP ips_blocked Metric ips_blocked
+# TYPE ips_blocked gauge
+ips_blocked 1

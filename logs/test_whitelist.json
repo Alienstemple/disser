@@ -1,0 +1,32 @@
+{
+  "whitelist": {
+    "ips": [
+      {
+        "ip": "192.168.1.1",
+        "added_at": "2026-03-19T09:38:49.287472",
+        "reason": "",
+        "expires_at": null
+      },
+      {
+        "ip": "8.8.8.8",
+        "added_at": "2026-03-19T09:38:49.287487",
+        "reason": "Google DNS",
+        "expires_at": null
+      }
+    ],
+    "subnets": [],
+    "ports": []
+  },
+  "blacklist": {
+    "ips": [
+      {
+        "ip": "10.20.30.40",
+        "added_at": "2026-03-19T09:38:49.287480",
+        "reason": "",
+        "expires_at": null
+      }
+    ],
+    "subnets": []
+  },
+  "saved_at": "2026-03-19T09:38:49.287505"
+}
