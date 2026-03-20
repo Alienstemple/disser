@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.6.1">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1216" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-40" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="1380" />
+              <mxPoint x="630" y="1380" />
+              <mxPoint x="630" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-36" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="206.88" x="303.12" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-37" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-33" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="210" x="300.25" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-9" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="90" width="255" x="274.87" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-17" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-22" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="110" width="240" x="282.5" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="210" x="297.37" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Старт системы&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;1) Загрузка конфигурации&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;2) Инициализация модулей&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;3) Запуск сбора трафика&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;4) Начало фонового мониторинга&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="317.37" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Получение следующего окна трафика для анализа" vertex="1">
+          <mxGeometry height="35" width="150.5" x="329.37" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="210" x="297.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сбор и анализ трафика&lt;div&gt;1) Захват сетевых пакетов&lt;/div&gt;&lt;div&gt;2) Извлечение признаков&lt;/div&gt;&lt;div&gt;3) Предсказание вероятности атаки&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="320" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Вероятность атаки &amp;gt; 0.85 ?" vertex="1">
+          <mxGeometry height="30" width="116" x="341" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-15" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Zu6EXlUMlOnsn6CZm_Fm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-18" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Продолжить мониторинг" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-20" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
+          <mxGeometry height="30" width="60" x="397" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="198.5" x="303.12" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Обнаружена атака&lt;div&gt;1) Определение типа атаки&lt;/div&gt;&lt;div&gt;2) Выявление источников атаки&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="190" x="311.62" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-31" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.5" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="197" x="305.75" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Анализ источников&lt;div&gt;1) Расчет статистики&lt;/div&gt;&lt;div&gt;2) Классификация вредоносный/легитимный&lt;/div&gt;&lt;div&gt;3) Группировка&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="158" x="326.25" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-34" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zu6EXlUMlOnsn6CZm_Fm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Zu6EXlUMlOnsn6CZm_Fm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="201.75" x="305.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-30" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Классификация типа атаки" vertex="1">
+          <mxGeometry height="41" width="150" x="330.25" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-32" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Генерация правил нейтрализации&lt;div&gt;1) Формирование контекста&lt;/div&gt;&lt;div&gt;2) Добавление шаблона атаки&lt;/div&gt;&lt;div&gt;3) Указание whitelist IP&lt;/div&gt;&lt;div&gt;4) Запрос к LLM API&lt;/div&gt;&lt;div&gt;5) Извлечение правил из JSON, валидация&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="198.38" x="303.56" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu6EXlUMlOnsn6CZm_Fm-35" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1) Применение правил к файрволу&lt;div&gt;2) Запись логов и метрик&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="183" x="313.12" y="1310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
